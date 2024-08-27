@@ -13090,10 +13090,10 @@ bl@^5.0.0:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-blob-polyfill@^7.0.20220408:
-  version "7.0.20220408"
-  resolved "https://registry.yarnpkg.com/blob-polyfill/-/blob-polyfill-7.0.20220408.tgz#38bf5e046c41a21bb13654d9d19f303233b8218c"
-  integrity sha512-oD8Ydw+5lNoqq+en24iuPt1QixdPpe/nUF8azTHnviCZYu9zUC+TwdzIp5orpblJosNlgNbVmmAb//c6d6ImUQ==
+blob-polyfill@^9.0.20240710:
+  version "9.0.20240710"
+  resolved "https://registry.yarnpkg.com/blob-polyfill/-/blob-polyfill-9.0.20240710.tgz#2ef075a207311ea327704f04dc4a98cbefe4143b"
+  integrity sha512-DPUO/EjNANCgSVg0geTy1vmUpu5hhp9tV2F7xUSTUd1jwe4XpwupGB+lt5PhVUqpqAk+zK1etqp6Pl/HVf71Ug==
 
 blob-util@^2.0.2:
   version "2.0.2"
@@ -14624,10 +14624,15 @@ core-js@^2.4.0, core-js@^2.5.0, core-js@^2.6.9:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha512-HOpZf6eXmnl7la+cUdMnLvUxKNqLUzJvgIziQ0DiF3JwSImNphIqdGqzj6hIKyX04MmV0poclQ7+wjWvxQyR2A==
 
-core-js@^3.0.4, core-js@^3.32.1, core-js@^3.36.0, core-js@^3.6.5, core-js@^3.8.2, core-js@^3.8.3:
+core-js@^3.0.4, core-js@^3.32.1, core-js@^3.6.5, core-js@^3.8.2, core-js@^3.8.3:
   version "3.36.0"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.36.0.tgz#e752fa0b0b462a0787d56e9d73f80b0f7c0dde68"
   integrity sha512-mt7+TUBbTFg5+GngsAxeKBTl5/VS0guFeJacYge9OmHb+m058UwwIm41SE9T4Den7ClatV57B6TYTuJ0CX1MAw==
+
+core-js@^3.38.1:
+  version "3.38.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.38.1.tgz#aa375b79a286a670388a1a363363d53677c0383e"
+  integrity sha512-OP35aUorbU3Zvlx7pjsFdu1rGNnD4pgw/CWoYzRY3t2EzoVT7shKHY1dlAy3f41cGIO7ZDPQimhGFTlEYkG/Hw==
 
 core-util-is@1.0.2, core-util-is@^1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
